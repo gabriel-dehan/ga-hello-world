@@ -17,12 +17,12 @@ $ node main.js
 ## Architecture :
 main.js<br />
 src/<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- algorithm.js<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- generation.js<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- chromosom.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- algorithm.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- generation.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- chromosom.js<br />
 lib/<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- math.js<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- string.js<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- p.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- math.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- string.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;+- p.js<br />
 vendors/<br />
-;&nbsp;&nbsp;&nbsp;&nbsp;+- underscore.js<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+- underscore.js<br />
